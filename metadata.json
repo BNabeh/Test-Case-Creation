@@ -1,0 +1,6 @@
+{
+  "name": "Test Case Generation",
+  "description": "Dynamic test case generator for QA engineers. Create comprehensive test suites with positive, negative, and edge cases from descriptions or images. Export to CSV/JSON.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
